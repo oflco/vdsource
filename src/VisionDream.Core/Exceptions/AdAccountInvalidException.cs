@@ -1,5 +1,5 @@
-﻿// Copyright (c) VisionDream Authors.
-// Licensed under the MIT License.
+﻿// Copyright (c) 2023 VisionDream Authors. Web: https://visiondreamict.wordpress.com/.
+// Licensed under the MIT license. See LICENSE file for license information.
 
 namespace VisionDream.Core.Exceptions
 {
